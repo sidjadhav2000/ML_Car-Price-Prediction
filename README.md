@@ -1,1 +1,2 @@
 # ML_Car-Price-Prediction
+I developed and deployed a Flask-based web application for car price prediction using machine learning. The project utilizes a Linear Regression model and includes data cleaning with Label Encoder to handle categorical data. The model was trained on balanced data using a train-test split, achieving the accuracy of 87.99% . Built an intuitive web interface allowing users to input relevant data and receive real-time predictions on car costs.
